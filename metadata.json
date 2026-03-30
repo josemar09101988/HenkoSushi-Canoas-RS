@@ -1,0 +1,7 @@
+{
+  "name": "Henko Sushi Lounge",
+  "description": "Site oficial do Henko Sushi Lounge em Canoas. Experiência gastronômica japonesa moderna com delivery e ambiente exclusivo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
